@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/badrish-meher/javaleetcodeque/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/badrish-meher/javaleetcodeque/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/badrish-meher/javaleetcodeque/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/badrish-meher/javaleetcodeque/tree/master/1480-running-sum-of-1d-array) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/badrish-meher/javaleetcodeque/tree/master/1672-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/badrish-meher/javaleetcodeque/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
