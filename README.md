@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/badrish-meher/javaleetcodeque/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/badrish-meher/javaleetcodeque/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/badrish-meher/javaleetcodeque/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/badrish-meher/javaleetcodeque/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
